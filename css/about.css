@@ -183,7 +183,7 @@
 .about__video::before {
   position: absolute;
   cursor: pointer;
-  content: url(/images/play.png);
+  content: url(/Smooth/images/play.png);
   top: 19%;
   left: 46%;
   transform: translate(-50%, -50%);
@@ -261,7 +261,7 @@
 .about__story {
   max-width: 610px;
   flex: 0 0 610px;
-  background-image: url(/images/Card_about.jpg);
+  background-image: url(/Smooth/images/Card_about.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -442,7 +442,7 @@
     
     &::before {
       content: "";
-      background: url(/images/play.png) no-repeat center;
+      background: url(/Smooth/images/play.png) no-repeat center;
       background-size: contain;
       width: 80px;
       height: 80px;
@@ -458,4 +458,5 @@
   .about__story-card {
     background: rgba(0, 0, 0, 0.6);
   }
+
 }
