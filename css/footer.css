@@ -1,6 +1,6 @@
 
 .footer {
-  background-image: url(/images/Footer.jpg);
+  background-image: url(/Smooth/images/Footer.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -310,4 +310,5 @@
   .footer__nav {
     gap: 20px;
   }
+
 }
